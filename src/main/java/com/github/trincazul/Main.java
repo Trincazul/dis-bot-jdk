@@ -25,7 +25,7 @@ public class Main {
         });
 
         // Print para invitar a url do bot
-        System.out.println("Você pode invitar o Bot usando a URL: " + api.createBotInvite());
+        System.out.println("Codigo de Invitar Bot " + api.createBotInvite());
     }
 
 }
